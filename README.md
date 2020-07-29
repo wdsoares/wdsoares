@@ -1,4 +1,11 @@
-### Hi there 👋
+## Olá, visitante!
+#### Seja bem vindo ao meu github. Aqui você vai encontrar várias ~~cagadas~~ tarefas e projetos que fiz :)
+#### Fique a vontade e volte sempre.
+#### Ah, e aproveita pra me seguir nas minhas redes sociais
+---
+> - [Facebook](https://www.facebook.com/w.d.m.soares/)
+> - [Twitter](https://twitter.com/wd_soares)
+> - [Instagram](https://www.instagram.com/wd_soares/)
 
 <!--
 **wdsoares/wdsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
