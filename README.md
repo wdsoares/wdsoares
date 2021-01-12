@@ -3,8 +3,8 @@
 #### Fique a vontade e volte sempre.
 #### Ah, e aproveita pra me seguir nas minhas redes sociais xD
 ---
+> - ![Twitter Follow](https://img.shields.io/twitter/follow/wd_soares?style=social)
 > - [Facebook](https://www.facebook.com/w.d.m.soares/)
-> - [Twitter](https://twitter.com/wd_soares)
 > - [Instagram](https://www.instagram.com/wd_soares/)
 
 <!--
