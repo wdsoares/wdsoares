@@ -1,5 +1,4 @@
 ## Olá, visitante!
-#### Seja bem vindo ao meu github. Aqui você vai encontrar várias tarefas e projetos que fiz :)
 #### Fique a vontade e volte sempre.
 #### Ah, e aproveita pra me seguir nas minhas redes sociais xD
 ---
